@@ -1,0 +1,11 @@
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\bin\Debug\Gesttiune-Angajati.exe.config
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\bin\Debug\Gesttiune-Angajati.exe
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\bin\Debug\Gesttiune-Angajati.pdb
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\obj\Debug\Gesttiune-Angajati.csprojResolveAssemblyReference.cache
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\obj\Debug\Gesttiune_Angajati.Form1.resources
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\obj\Debug\Gesttiune_Angajati.Properties.Resources.resources
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\obj\Debug\Gesttiune-Angajati.csproj.GenerateResource.Cache
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\obj\Debug\Gesttiune-Angajati.exe
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\obj\Debug\Gesttiune-Angajati.pdb
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\bin\Debug\angajatti.mdf
+D:\c#\Gesttiune-Angajati\Gesttiune-Angajati\bin\Debug\angajatti_log.ldf
